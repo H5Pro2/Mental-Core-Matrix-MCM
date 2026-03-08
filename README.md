@@ -1,72 +1,72 @@
 # Mental Core Matrix (MCM)
 
-## Overview
+## Überblick
 
-The **Mental Core Matrix (MCM)** is a theoretical framework describing dynamic systems through four fundamental structural components:
+Die **Mental Core Matrix (MCM)** ist ein theoretischer Rahmen zur Beschreibung dynamischer Systeme anhand von vier grundlegenden strukturellen Komponenten:
 
-* **Center** – a stabilizing reference state
-* **Deviation** – displacement from structural equilibrium
-* **Variance** – the dynamic space of possible system states
-* **Return** – regulatory processes that restore structural stability
+* **Zentrum** – ein stabilisierender Referenzzustand  
+* **Abweichung** – Verschiebung vom strukturellen Gleichgewicht  
+* **Varianz** – der dynamische Raum möglicher Systemzustände  
+* **Rückführung** – regulatorische Prozesse, die strukturelle Stabilität wiederherstellen  
 
-Together these elements form a **general structure model for complex systems**.
+Zusammen bilden diese Elemente ein **allgemeines Strukturmodell für komplexe Systeme**.
 
-The framework can be applied to multiple domains including:
+Der Rahmen kann auf verschiedene Bereiche angewendet werden, darunter:
 
-* psychological state dynamics
-* emotional regulation
-* complex adaptive systems
-* artificial agents and AI simulations
-* emergence and attractor dynamics
+* psychologische Zustandsdynamik  
+* Emotionsregulation  
+* komplexe adaptive Systeme  
+* künstliche Agenten und KI-Simulationen  
+* Emergenz- und Attraktordynamiken  
 
-In addition to its structural system model, the MCM is also explored as a **hypothetical worldview**, examining how the same underlying dynamics might scale to broader questions such as:
+Neben seinem strukturellen Systemmodell wird die MCM auch als **hypothetisches Weltbild** untersucht. Dabei wird betrachtet, wie sich dieselben zugrunde liegenden Dynamiken möglicherweise auf größere Fragestellungen skalieren lassen, zum Beispiel:
 
-* consciousness
-* evolution
-* societal systems
-* cosmological structure
+* Bewusstsein  
+* Evolution  
+* gesellschaftliche Systeme  
+* kosmologische Struktur  
 
-This repository presents the MCM as an **open theoretical model** intended for exploration, discussion, and simulation.
+Dieses Repository stellt die MCM als **offenes theoretisches Modell** zur Verfügung, das für Exploration, Diskussion und Simulation gedacht ist.
 
 ---
 
-## Core Concept
+## Grundkonzept
 
-The basic dynamic structure of the MCM can be summarized as:
+Die grundlegende dynamische Struktur der MCM kann wie folgt zusammengefasst werden:
 
 ```
 Center → Deviation → Variance → Return
 ```
 
-Systems move away from equilibrium, generate variance and structure, and eventually regulate themselves through return dynamics.
+Systeme entfernen sich vom Gleichgewicht, erzeugen Varianz und Struktur und regulieren sich anschließend über Rückführungsdynamiken.
 
-This process can produce:
+Dieser Prozess kann erzeugen:
 
-* attractors
-* oscillations
-* stabilization
-* emergent patterns.
+* Attraktoren  
+* Oszillationen  
+* Stabilisierung  
+* emergente Muster  
 
 ---
 
-## Repository Structure
+## Repository-Struktur
 
 ```
-docs/           theoretical texts and explanations
-papers/         extended conceptual documents
-simulations/    experimental MCM-based simulations
-figures/        diagrams and visual models
-archive/        earlier versions and notes
+docs/           theoretische Texte und Erklärungen
+papers/         ausführlichere konzeptionelle Dokumente
+simulations/    experimentelle MCM-basierte Simulationen
+figures/        Diagramme und visuelle Modelle
+archive/        frühere Versionen und Notizen
 ```
 
 ---
 
 ## Status
 
-The MCM should be understood as:
+Die MCM sollte verstanden werden als:
 
-* a **theoretical framework**
-* a **hypothetical system model**
-* an **open conceptual research project**
+* ein **theoretischer Rahmen**  
+* ein **hypothetisches Systemmodell**  
+* ein **offenes konzeptionelles Forschungsprojekt**  
 
-It is not presented as an established scientific theory but as a structural model intended for exploration and discussion.
+Sie wird **nicht als etablierte wissenschaftliche Theorie präsentiert**, sondern als strukturelles Modell zur Exploration und Diskussion.
