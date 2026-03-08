@@ -2,49 +2,50 @@
 
 ## Überblick
 
-Die **Mental Core Matrix (MCM)** ist ein theoretischer Rahmen zur Beschreibung dynamischer Systeme anhand von vier grundlegenden strukturellen Komponenten:
+Die **Mental Core Matrix (MCM)** ist ein konzeptioneller Rahmen zur Beschreibung dynamischer Systeme anhand von vier grundlegenden strukturellen Komponenten:
 
 * **Zentrum** – ein stabilisierender Referenzzustand  
-* **Abweichung** – Verschiebung vom strukturellen Gleichgewicht  
+* **Abweichung** – eine Verschiebung vom strukturellen Gleichgewicht  
 * **Varianz** – der dynamische Raum möglicher Systemzustände  
 * **Rückführung** – regulatorische Prozesse, die strukturelle Stabilität wiederherstellen  
 
 Zusammen bilden diese Elemente ein **allgemeines Strukturmodell für komplexe Systeme**.
 
-Der Rahmen kann auf verschiedene Bereiche angewendet werden, darunter:
+Der Rahmen kann zur Untersuchung verschiedener Bereiche verwendet werden, darunter:
 
-* psychologische Zustandsdynamik  
+* psychologische Zustandsdynamiken  
 * Emotionsregulation  
 * komplexe adaptive Systeme  
 * künstliche Agenten und KI-Simulationen  
 * Emergenz- und Attraktordynamiken  
 
-Neben seinem strukturellen Systemmodell wird die MCM auch als **hypothetisches Weltbild** untersucht. Dabei wird betrachtet, wie sich dieselben zugrunde liegenden Dynamiken möglicherweise auf größere Fragestellungen skalieren lassen, zum Beispiel:
+Neben seiner Rolle als Strukturmodell wird die MCM auch als **hypothetisches konzeptionelles Weltbild** untersucht.  
+Dabei wird betrachtet, ob sich ähnliche strukturelle Dynamiken möglicherweise auf größere Zusammenhänge übertragen lassen, etwa auf:
 
 * Bewusstsein  
 * Evolution  
 * gesellschaftliche Systeme  
-* kosmologische Struktur  
+* kosmologische Strukturen  
 
-Dieses Repository stellt die MCM als **offenes theoretisches Modell** zur Verfügung, das für Exploration, Diskussion und Simulation gedacht ist.
+Dieses Repository stellt die MCM als **offenes theoretisches Modell** zur Verfügung, das der Exploration, Diskussion und experimentellen Simulation dient.
 
 ---
 
 ## Grundkonzept
 
-Die grundlegende dynamische Struktur der MCM kann wie folgt zusammengefasst werden:
+Die grundlegende dynamische Struktur der MCM lässt sich vereinfacht folgendermaßen darstellen:
 
 ```
-Center → Deviation → Variance → Return
+Zentrum → Abweichung → Varianz → Rückführung
 ```
 
-Systeme entfernen sich vom Gleichgewicht, erzeugen Varianz und Struktur und regulieren sich anschließend über Rückführungsdynamiken.
+Systeme entfernen sich vom Gleichgewicht, erzeugen Varianz und strukturelle Komplexität und regulieren sich anschließend über Rückführungsdynamiken.
 
-Dieser Prozess kann erzeugen:
+Innerhalb dieses Modells können dabei unter anderem folgende Phänomene entstehen:
 
 * Attraktoren  
 * Oszillationen  
-* Stabilisierung  
+* Stabilisierungseffekte  
 * emergente Muster  
 
 ---
@@ -52,21 +53,21 @@ Dieser Prozess kann erzeugen:
 ## Repository-Struktur
 
 ```
-docs/           theoretische Texte und Erklärungen
-papers/         ausführlichere konzeptionelle Dokumente
-simulations/    experimentelle MCM-basierte Simulationen
-figures/        Diagramme und visuelle Modelle
-archive/        frühere Versionen und Notizen
+docs/           theoretische Texte und Erklärungen  
+papers/         ausführlichere konzeptionelle Dokumente  
+simulations/    experimentelle MCM-basierte Simulationen  
+figures/        Diagramme und visuelle Modelle  
+archive/        frühere Versionen und Notizen  
 ```
 
 ---
 
-## Status
+## Projektstatus
 
 Die MCM sollte verstanden werden als:
 
-* ein **theoretischer Rahmen**  
+* ein **konzeptioneller Rahmen**  
 * ein **hypothetisches Systemmodell**  
-* ein **offenes konzeptionelles Forschungsprojekt**  
+* ein **offenes exploratives Forschungsprojekt**
 
-Sie wird **nicht als etablierte wissenschaftliche Theorie präsentiert**, sondern als strukturelles Modell zur Exploration und Diskussion.
+Sie wird **nicht als etablierte wissenschaftliche Theorie präsentiert**, sondern als strukturelles Modell zur Exploration, Diskussion und experimentellen Untersuchung komplexer Systeme.
