@@ -86,6 +86,7 @@ Die vollständige theoretische Ausarbeitung ist in einer eigenständigen Abhandl
 - E – Die kosmische Matrix  
 - F – Bewusstsein als möglicher Attraktor  
 - G – Die Multiversen-Matrix  
+   - G.1 – Erweiterungsblock: Reorganisation verdichteter Energie
 - H – MCM und die Dynamik der Individualität  
 - I – MCM und evolutionäre Prozesse  
 
