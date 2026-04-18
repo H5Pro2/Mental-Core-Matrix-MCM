@@ -1,5 +1,7 @@
 # Mental Core Matrix (MCM)
 
+![alt text](mögliche_metaphysische_Form_der_MCM.png)
+
 > Ein offenes, hypothetisches Forschungsprojekt zur Untersuchung dynamischer Systeme mit Fokus auf Struktur, Rückführung und emergente Ordnungsbildung.
 
 ---
