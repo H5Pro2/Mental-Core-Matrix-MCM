@@ -153,8 +153,7 @@ Die MCM kann rückblickend in Bezug zu ähnlichen Modellfamilien gesetzt werden,
 - **Energy-Based Models**: Energiezustände, Stabilisierung und attraktorähnliches Verhalten
 - **Active Inference / Free Energy Principle**: Selbstorganisation, Regulation und zustandsabhängige Anpassung
 
-Diese Bezüge dienen nur der wissenschaftlichen Einordnung. 
-**Die MCM wurde nicht** aus diesen Ansätzen konstruiert, sondern entwickelte sich als eigenständige Strukturidee. Die nachträgliche Nähe zu solchen Modellen kann als Hinweis verstanden werden, dass ähnliche Grundprobleme berührt werden: Stabilisierung, Abweichung, Rückführung, lokale Wechselwirkung und emergente Ordnungsbildung.
+Diese Bezüge dienen nur der wissenschaftlichen Einordnung. Die MCM wurde *nicht!* aus diesen Ansätzen konstruiert, sondern entwickelte sich als eigenständige Strukturidee. Die nachträgliche Nähe zu solchen Modellen kann als Hinweis verstanden werden, dass ähnliche Grundprobleme berührt werden: Stabilisierung, Abweichung, Rückführung, lokale Wechselwirkung und emergente Ordnungsbildung.
 
 Die Besonderheit der MCM liegt in der Kombination mehrerer Ebenen: einem Zentrum als regulativem Bezugspunkt, einem kontinuierlichen Spannungsraum, einer archetypenfreien energetischen Ebene, einer psychologischen Interpretationsebene und simulationsbasierter Emergenz durch lokale Kopplung, Rauschen, Dichtebildung und Clusterung.
 
