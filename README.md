@@ -145,6 +145,22 @@ Diese Ebenen können gemeinsam betrachtet werden, bleiben jedoch analytisch getr
 
 ---
 
+## Bezug zu ähnlichen Modellen
+
+Die MCM kann rückblickend in Bezug zu ähnlichen Modellfamilien gesetzt werden, ohne daraus abgeleitet worden zu sein. Besonders nahe Vergleichspunkte ergeben sich hypothetisch zu:
+
+- **Dynamical Systems Theory**: Zustandsräume, Attraktoren, Übergänge und Phasenwechsel
+- **Energy-Based Models**: Energiezustände, Stabilisierung und attraktorähnliches Verhalten
+- **Active Inference / Free Energy Principle**: Selbstorganisation, Regulation und zustandsabhängige Anpassung
+
+Diese Bezüge dienen nur der wissenschaftlichen Einordnung. Die MCM wurde nicht aus diesen Ansätzen konstruiert, sondern entwickelte sich als eigenständige Strukturidee. Die nachträgliche Nähe zu solchen Modellen kann als Hinweis verstanden werden, dass ähnliche Grundprobleme berührt werden: Stabilisierung, Abweichung, Rückführung, lokale Wechselwirkung und emergente Ordnungsbildung.
+
+Die Besonderheit der MCM liegt in der Kombination mehrerer Ebenen: einem Zentrum als regulativem Bezugspunkt, einem kontinuierlichen Spannungsraum, einer archetypenfreien energetischen Ebene, einer psychologischen Interpretationsebene und simulationsbasierter Emergenz durch lokale Kopplung, Rauschen, Dichtebildung und Clusterung.
+
+Damit kann die MCM eher als maschinell unterstützte Komplettierung einer eigenständig entstandenen Modellidee gelesen werden, nicht als Variante eines bestehenden Modells.
+
+---
+
 ## Methodischer Ansatz
 
 Die Entwicklung des Modells basiert auf:
@@ -210,13 +226,18 @@ Die dargestellten Inhalte sind:
 
 - theoretische Annahmen  
 - explorative Modelle  
+- simulationsbasierte Strukturversuche  
 - nicht empirisch validiert  
+- keine abgeschlossene wissenschaftliche Theorie  
 
 Das Modell dient dazu:
 
 - strukturelle Muster sichtbar zu machen  
 - neue Forschungsfragen zu formulieren  
-- Verbindungen zwischen Disziplinen zu untersuchen  
+- mögliche Verbindungen zwischen Disziplinen zu untersuchen  
+- emergente Ordnungsbildung in abstrahierten Zustandsräumen explorativ zu simulieren  
+
+Die MCM erhebt keinen Anspruch, etablierte Modelle zu ersetzen. Sie kann als eigenständiger, offener Modellrahmen betrachtet werden, der Anschlussstellen zu ähnlichen dynamischen, energetischen und selbstorganisierenden Ansätzen besitzt.  
 
 ---
 
