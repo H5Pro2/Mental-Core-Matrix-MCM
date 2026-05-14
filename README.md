@@ -41,6 +41,8 @@ Diese vier Bereiche können als **dynamischer Zyklus mit Rückkopplungen** inter
 
 ## Kernlogik
 
+![alt text](files/mcm_kernzyklus.png)
+
 Vereinfachte Darstellung:
 
 `Zentrum → Abweichung → Varianz → Rückführung`
@@ -54,6 +56,11 @@ Innerhalb dieses Zyklus können folgende Dynamiken auftreten:
 - Emergenz neuer Muster  
 
 Die Struktur kann als Hinweis auf generische Prinzipien dynamischer Systeme interpretiert werden.
+
+---
+## Mathematische Grundform
+
+![alt text](files/mathematische_grundform_der_mcm.png)
 
 ---
 
