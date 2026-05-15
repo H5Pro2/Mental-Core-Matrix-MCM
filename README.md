@@ -21,6 +21,8 @@ Das Modell wird als **offener Forschungsansatz** verstanden und dient der strukt
 
 ## Worum es in der MCM geht
 
+![alt text](files/mcm_übersicht.png)
+
 Im Rahmen dieses hypothetischen Modells wird angenommen, dass sich viele dynamische Systeme entlang wiederkehrender Funktionsbereiche beschreiben lassen:
 
 1. **Zentrum**  
@@ -61,10 +63,12 @@ Die Struktur kann als Hinweis auf generische Prinzipien dynamischer Systeme inte
 ## Mathematische Grundform
 
 ![alt text](files/mathematische_grundform_der_mcm.png)
+![alt text](files/mcm_ebenen_mathematik.png)
 
 ---
-
 ## Projektprinzip (Emergenz und Ordnungsbildung)
+
+![alt text](files/mcm_emergenz_simulation_ki.png)
 
 Ein zentraler Leitgedanke dieses Projekts ist die Untersuchung von **Emergenz** innerhalb eines dynamischen Spannungsraums.
 
@@ -74,7 +78,7 @@ Im Fokus stehen:
 - Bildung stabiler und semistabiler Zustände (Attraktoren)  
 - Übergänge zwischen Zuständen (Transitionsräume)  
 - Rückkopplungsprozesse und Regulation  
-- mögliche Übertragbarkeit auf unterschiedliche Systemtypen  
+- mögliche Übertragbarkeit auf unterschiedliche Systemtypen (KI)
 
 Das Modell eröffnet die Möglichkeit, zu untersuchen, wie aus einfachen Interaktionen komplexe Ordnungsstrukturen entstehen können.
 
@@ -149,6 +153,9 @@ Die MCM kann als mehrschichtiger Modellrahmen betrachtet werden:
 - Untersuchung emergenter Strukturen  
 
 Diese Ebenen können gemeinsam betrachtet werden, bleiben jedoch analytisch getrennt.
+
+### mögliche Perpektiven, die sich daraus Ergeben !
+![alt text](files/mcm_projektstruktur_perpektiven.png)
 
 ---
 
