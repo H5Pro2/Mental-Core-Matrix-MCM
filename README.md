@@ -188,6 +188,8 @@ Die Entwicklung des Modells basiert auf:
 - Simulation emergenter Prozesse  
 - KI-gestützter Mustererkennung  
 
+![alt text](files/mcm_ki_agent.png)
+
 Diese Methoden dienen der Exploration möglicher Strukturen und ersetzen keine empirische Validierung.
 
 ---
