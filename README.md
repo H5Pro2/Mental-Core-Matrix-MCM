@@ -63,6 +63,7 @@ Die Struktur kann als Hinweis auf generische Prinzipien dynamischer Systeme inte
 ## Mathematische Grundform
 
 ![alt text](files/mathematische_grundform_der_mcm.png)
+
 ![alt text](files/mcm_ebenen_mathematik.png)
 
 ---
@@ -154,7 +155,10 @@ Die MCM kann als mehrschichtiger Modellrahmen betrachtet werden:
 
 Diese Ebenen können gemeinsam betrachtet werden, bleiben jedoch analytisch getrennt.
 
-### mögliche Perpektiven, die sich daraus Ergeben !
+---
+
+## mögliche Perpektiven, die sich daraus Ergeben !
+
 ![alt text](files/mcm_projektstruktur_perpektiven.png)
 
 ---
