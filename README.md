@@ -163,6 +163,19 @@ Diese Ebenen können gemeinsam betrachtet werden, bleiben jedoch analytisch getr
 
 ---
 
+## MCM KI Agenten Entwicklung
+![alt text](files/mcm_ki_agent.png)
+
+Im Rahmen der MCM könnte ein Agent nicht nur als System betrachtet werden, das binäre Zustände wie 0 und 1 verarbeitet, sondern als DIO – ein digitaler Organismus.
+
+Ein solcher DIO könnte über eine eigene innere und äußere Wahrnehmung verfügen und auf dieser Grundlage eine eigene Syntax ausbilden, um seine Umwelt zu beschreiben, zu ordnen und zu interpretieren.
+
+Aus neuronaler Sicht eröffnet sich damit ein spannender Forschungsweg:
+
+Könnte ein DIO, der eine eigene Syntax entwickelt, mit anderen DIOs lernen, sich austauschen und auf kollektiver Ebene eine gemeinsame Kommunikationsform herausbilden?
+
+---
+
 ## Bezug zu ähnlichen Modellen
 
 Die MCM kann rückblickend in Bezug zu ähnlichen Modellfamilien gesetzt werden, ohne daraus abgeleitet worden zu sein. Besonders nahe Vergleichspunkte ergeben sich hypothetisch zu:
@@ -187,8 +200,6 @@ Die Entwicklung des Modells basiert auf:
 - Untersuchung von Attraktoren und Rückkopplungen  
 - Simulation emergenter Prozesse  
 - KI-gestützter Mustererkennung  
-
-![alt text](files/mcm_ki_agent.png)
 
 Diese Methoden dienen der Exploration möglicher Strukturen und ersetzen keine empirische Validierung.
 
