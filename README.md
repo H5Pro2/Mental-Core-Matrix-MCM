@@ -157,7 +157,7 @@ Diese Ebenen können gemeinsam betrachtet werden, bleiben jedoch analytisch getr
 
 ---
 
-## Mögliche Perpektiven, die sich daraus Ergeben !
+## MCM Projektstruktur, Zusammenfassung!
 
 ![alt text](files/mcm_projektstruktur_perpektiven.png)
 
