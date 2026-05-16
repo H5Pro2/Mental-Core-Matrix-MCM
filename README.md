@@ -1,6 +1,6 @@
 # Mental Core Matrix (MCM)
 
-![alt text](files/_metaphysische_Form_der_MCM.png)
+![Metaphysische Form der Mental Core Matrix](files/_metaphysische_Form_der_MCM.png)
 
 > Ein offenes, hypothetisches Forschungsprojekt zur Untersuchung dynamischer Systeme mit Fokus auf Struktur, Rückführung und emergente Ordnungsbildung.
 
@@ -8,7 +8,7 @@
 
 ## Kurzüberblick
 
-Die **Mental Core Matrix (MCM)** ist ein konzeptioneller Modellrahmen, mit dem untersucht werden kann, wie dynamische Systeme:
+Die **Mental Core Matrix (MCM)** kann als konzeptioneller Modellrahmen betrachtet werden, mit dem untersucht werden kann, wie dynamische Systeme:
 
 - Stabilität ausbilden  
 - in Veränderung übergehen  
@@ -21,7 +21,7 @@ Das Modell wird als **offener Forschungsansatz** verstanden und dient der strukt
 
 ## Worum es in der MCM geht
 
-![alt text](files/mcm_übersicht.png)
+![Übersicht der Mental Core Matrix](files/mcm_übersicht.png)
 
 Im Rahmen dieses hypothetischen Modells wird angenommen, dass sich viele dynamische Systeme entlang wiederkehrender Funktionsbereiche beschreiben lassen:
 
@@ -43,7 +43,7 @@ Diese vier Bereiche können als **dynamischer Zyklus mit Rückkopplungen** inter
 
 ## Kernlogik
 
-![alt text](files/mcm_kernzyklus.png)
+![Kernzyklus der Mental Core Matrix](files/mcm_kernzyklus.png)
 
 Vereinfachte Darstellung:
 
@@ -62,16 +62,16 @@ Die Struktur kann als Hinweis auf generische Prinzipien dynamischer Systeme inte
 ---
 ## Mathematische Grundform
 
-![alt text](files/mathematische_grundform_der_mcm.png)
+![Mathematische Grundform der MCM](files/mathematische_grundform_der_mcm.png)
 
-![alt text](files/mcm_ebenen_mathematik.png)
+![Mathematische Ebenen der MCM](files/mcm_ebenen_mathematik.png)
 
 ---
 ## Projektprinzip (Emergenz und Ordnungsbildung)
 
-![alt text](files/mcm_emergenz_simulation_ki.png)
+![Emergenz und Simulation innerhalb der MCM](files/mcm_emergenz_simulation_ki.png)
 
-Ein zentraler Leitgedanke dieses Projekts ist die Untersuchung von **Emergenz** innerhalb eines dynamischen Spannungsraums.
+Ein zentraler Leitgedanke dieses Projekts liegt in der Untersuchung von **Emergenz** innerhalb eines dynamischen Spannungsraums.
 
 Im Fokus stehen:
 
@@ -87,7 +87,7 @@ Das Modell eröffnet die Möglichkeit, zu untersuchen, wie aus einfachen Interak
 
 ## Abhandlungen (A–X Struktur)
 
-Die vollständige theoretische Ausarbeitung ist in eigenständigen Abhandlungen organisiert.
+Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlungen vor.
 
 ### Teil I – Strukturmodell
 
@@ -159,12 +159,12 @@ Diese Ebenen können gemeinsam betrachtet werden, bleiben jedoch analytisch getr
 
 ## MCM Projektstruktur, Zusammenfassung!
 
-![alt text](files/mcm_projektstruktur_perpektiven.png)
+![Projektstruktur der MCM](files/mcm_projektstruktur_perpektiven.png)
 
 ---
 
 ## MCM KI Agenten Entwicklung
-![alt text](files/mcm_ki_agent.png)
+![MCM-basierter KI-Agent](files/mcm_ki_agent.png)
 
 Im Rahmen der MCM könnte ein Agent nicht nur als System betrachtet werden, das binäre Zustände wie 0 und 1 verarbeitet, sondern als DIO – ein digitaler Organismus.
 
@@ -253,12 +253,12 @@ Diese Anwendungen sind als mögliche Interpretationen innerhalb des Modells zu v
 
 Die Mental Core Matrix wird als **hypothetisches Strukturmodell** verstanden.
 
-Die dargestellten Inhalte sind:
+Die dargestellten Inhalte umfassen:
 
 - theoretische Annahmen  
 - explorative Modelle  
 - simulationsbasierte Strukturversuche  
-- nicht empirisch validiert  
+- nicht empirisch validierte Ansätze  
 - keine abgeschlossene wissenschaftliche Theorie  
 
 Das Modell dient dazu:
@@ -289,6 +289,6 @@ Die MCM wird als fortlaufender Forschungsprozess verstanden.
 
 ## Kurzfassung
 
-Die Mental Core Matrix (MCM) ist ein hypothetischer Modellrahmen zur Beschreibung dynamischer Systeme über die Bereiche Zentrum, Abweichung, Varianz und Rückführung.  
+Die Mental Core Matrix (MCM) kann als hypothetischer Modellrahmen zur Beschreibung dynamischer Systeme über die Bereiche Zentrum, Abweichung, Varianz und Rückführung betrachtet werden.  
 Im Fokus steht die Untersuchung von Emergenz, Selbstorganisation und Stabilisierung.  
 Das Projekt verbindet konzeptionelle, mathematische und simulationsbasierte Ansätze und wird als offenes Forschungsmodell geführt.
