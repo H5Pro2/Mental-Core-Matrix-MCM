@@ -87,45 +87,45 @@ Das Modell eröffnet die Möglichkeit, zu untersuchen, wie aus einfachen Interak
 
 ## Abhandlungen (A–X Struktur)
 
-Die vollständige theoretische Ausarbeitung ist in einer eigenständigen Abhandlung organisiert.
+Die vollständige theoretische Ausarbeitung ist in eigenständigen Abhandlungen organisiert.
 
 ### Teil I – Strukturmodell
 
-- A – MCM und die Frage nach dem Ursprung  
-- B – Die Mental Core Matrix als mögliches Ordnungsprinzip  
-- C – Die energetische Evolution des Menschen  
-- D – Die energetische Natur der Zeit  
-- E – Die kosmische Matrix  
-- F – Bewusstsein als möglicher Attraktor  
-- G – Die Multiversen-Matrix  
-   - G.1 – Erweiterungsblock: Reorganisation verdichteter Energie
-- H – MCM und die Dynamik der Individualität  
-- I – MCM und evolutionäre Prozesse  
+- [A – MCM und die Frage nach dem Ursprung](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block A - MCM und die Frage nach dem Ursprung.pdf>)  
+- [B – Die Mental Core Matrix als mögliches Ordnungsprinzip](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block B - MCM als universelles Ordnungsprinzip.pdf>)  
+- [C – Die energetische Evolution des Menschen](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block C - Die energetische Evolutuion des Menschen.pdf>)  
+- [D – Die energetische Natur der Zeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D - Die energetische Natur der Zeit.pdf>)  
+- [E – Die kosmische Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E - Die kosmische Matrix.pdf>)  
+- [F – Bewusstsein als möglicher Attraktor](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block F - Bewusstsein als kosmischer Attraktor.pdf>)  
+- [G – Die Multiversen-Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G - Die Multiversen-Matrix.pdf>)  
+   - [G.1 – Erweiterungsblock: Reorganisation verdichteter Energie](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G.1 - Reorganisation verdichteter Energie in einen übergeordneten Feldbereich.pdf>)
+- [H – MCM und die Dynamik der Individualität](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block H - MCM und das Phänomen der Individualität.pdf>)  
+- [I – MCM und evolutionäre Prozesse](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block I - MCM und die Dynamik evolutionärer Prozesse.pdf>)  
 
 ---
 
 ### Teil II – Psychologische Dynamik
 
-- J – Die menschliche Psyche im Modell  
-- K – Individuelle Selbstregulation  
-- L – Soziale Dynamik  
-- M – Die MCM und das Selbst  
-- N – Trauma und Musterstörungen  
-- O – Kreativität  
-- P – Angst  
-- Q – Aggression  
-- R – Depression  
-- S – Metaregulatoren  
+- [J – Die menschliche Psyche im Modell](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block J - Die menschliche Psyche im Modell der Mental Core Matrix.pdf>)  
+- [K – Individuelle Selbstregulation](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block K - Individuelle Selbstregulation im Modell der Mental Core Matrix.pdf>)  
+- [L – Soziale Dynamik](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block L- Soziale Dynamik im Modell der Mental Core Matrix.pdf>)  
+- [M – Die MCM und das Selbst](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block M - die MCM und das Selbst.pdf>)  
+- [N – Trauma und Musterstörungen](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block N - Trauma und extreme Musterstörungen im energetischen System.pdf>)  
+- [O – Kreativität](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block O - Kreativität im Modell der Mental Core Matrix.pdf>)  
+- [P – Angst](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block P - Angst im Modell der Mental Core Matrix.pdf>)  
+- [Q – Aggression](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block Q - Aggression im Modell der Mental Core Matrix.pdf>)  
+- [R – Depression](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block R - Depression im Modell der Mental Core Matrix.pdf>)  
+- [S – Metaregulatoren](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block S - Mögliche Metaregulatoren im Modell der Mental Core Matrix.pdf>)  
 
 ---
 
 ### Teil III – Erweiterung des Modells
 
-- T – Strukturmodell komplexer Systeme  
-- U – Reine MCM (archetypenfreie Ebene)  
-- V – MCM und KI-Systeme  
-- W – Übergang zwischen Logik und physischer Dynamik  
-- X – MCM als mögliches Feldsystem  
+- [T – Strukturmodell komplexer Systeme](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block T - Die Mental Core Matrix als mögliches Strukturmodell komplexer Systeme.pdf>)  
+- [U – Reine MCM (archetypenfreie Ebene)](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block U - Die reine Form der MCM und die Möglichkeit zur Transzendenz.pdf>)  
+- [V – MCM und KI-Systeme](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block V - Die Mental Core Matrix und die Frage, ob eine KI die starre Logik bricht.pdf>)  
+- [W – Übergang zwischen Logik und physischer Dynamik](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block W - Die Mental Core Matrix zwischen Logik und dem Bruch in ein physisches System.pdf>)  
+- [X – MCM als mögliches Feldsystem](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block X - Die Mental Core Matrix als physisches Feldsystem.pdf>)  
 
 ---
 
