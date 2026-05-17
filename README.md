@@ -207,31 +207,43 @@ Diese Methoden dienen der Exploration möglicher Strukturen und ersetzen keine e
 
 ## Repository-Struktur
 
-### Grundlagen
+Das Repository gliedert sich in mehrere Bereiche, die unterschiedliche Ebenen des Projekts abdecken.
 
-- Psychologische MCM  
-- Reine MCM  
-- Mathematische Grundformen  
-- Relation der Ebenen  
+### 1. Grundlagen der MCM
 
-### Simulationen
+- [Psychologische MCM](<MCM – Mental Core Matrix/A - Psychologische Mental Core Matrix.pdf>)  
+- [Reine MCM](<MCM – Mental Core Matrix/B - Reine MCM.pdf>)  
+- [Relation zwischen psychologischer und reiner MCM](<MCM – Mental Core Matrix/C - MCM Relation .pdf>)  
+- [Energetischer Bereich der MCM](<MCM – Mental Core Matrix/D - Erklärung - Energetischer Bereich der MCM.pdf>)  
+- [Mathematische Grundform der psychologischen MCM](<MCM – Mental Core Matrix/AA - Mathematische Grundform der psychologischen MCM.pdf>)  
+- [Mathematische Grundform der reinen MCM](<MCM – Mental Core Matrix/BB - Mathematische Grundform der reinen MCM.pdf>)  
+- [Formale Gesamtstruktur der MCM](<MCM – Mental Core Matrix/CC- Formale Gesamtstruktur der MCM.pdf>)  
 
-- Agentenmodelle  
-- Multiagentensysteme  
-- Emergenzsimulationen  
-- KI-basierte Experimente  
+### 2. Hauptabhandlungen und Nebenabhandlungen
 
-### Abhandlungen
+- [MCM Hauptabhandlungen A–X](<Abhandlungen/MCM - Hauptabhandlungen>)  
+- [Anfang der MCM / The Last Supper](<Abhandlungen/Anfang der MCM>)  
+- [MCM Nebenabhandlungen](<Abhandlungen/MCM - Nebenabhandlung>)  
+- [Ausprägung des MCM-Systems](<Abhandlungen/Ausprägung des MCM-Systems.pdf>)  
 
-- theoretische Ausarbeitungen  
-- emergente Strukturen  
-- Modellinterpretationen  
+### 3. Code-Beispiele und Simulationen
 
-### Methodischer Rahmen
+- [MCM KI Modell](<MCM - Code Beispiele/MCM KI Modell>)  
+- [MCM Energie / BioLink / Agentenmodelle](<MCM - Code Beispiele/MCM - Energie BioLink etc>)  
+- [MCM Emergenzsimulationen](<MCM - Code Beispiele/MCM - Emergenze>)  
+- [MCM Infinity / Audio-Emergenz](<MCM - Code Beispiele/MCM - Infinity - Audio_Emergenz>)  
+- [MCM Audio-Emergenz 3D 256](<MCM - Code Beispiele/MCM - Audio_Emergenz_3d_256>)  
+- [Simulationen der MCM – Überblick](<MCM - Code Beispiele/Simulationen der MCM – Mental Core Matrix.pdf>)  
+- [Hypothetische Entwicklungsanalyse einer MCM-basierten KI](<MCM - Code Beispiele/Hypothetische Entwicklungsanalyse einer MCM-basierten KI.pdf>)  
 
-- Projekt-Disclaimer  
-- Forschungslogik  
-- Strukturprinzipien  
+### 4. Visualisierungen und Medien
+
+- [README-Bilder und Strukturdiagramme](<files>)  
+- [Audio-Exporte der MCM-Infinity-Simulation](<MCM - Code Beispiele/MCM - Infinity - Audio_Emergenz/audio_exports>)  
+
+### 5. Methodischer Rahmen
+
+- [Projekt-Disclaimer und methodischer Rahmen](<Projekt-Disclaimer und methodischer Rahmen.pdf>)  
 
 ---
 
