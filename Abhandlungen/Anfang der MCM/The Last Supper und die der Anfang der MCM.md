@@ -7,6 +7,8 @@ autor: "Pascal.E"
 
 Eine interpretative Abhandlung über Struktur, Spannung und archetypische Ordnung
 
+![The Last Supper Leonardo da Vincis](assets/the-last-supper-leonardo-da-vinci.jpg)
+
 ## 1. Einleitung
 
 Das Wandgemälde The Last Supper zählt zu den bekanntesten Kunstwerken der Renaissance. Es zeigt die biblische Szene des letzten Abendmahls, in der Jesus seinen Jüngern mitteilt, dass einer von ihnen ihn verraten wird.
