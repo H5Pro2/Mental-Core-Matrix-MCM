@@ -7,7 +7,7 @@ autor: "Pascal.E"
 
 Eine interpretative Abhandlung über Struktur, Spannung und archetypische Ordnung
 
-![The Last Supper Leonardo da Vincis](assets/the-last-supper-leonardo-da-vinci.jpg)
+![The Last Supper Leonardo da Vincis](assets/lenardo.png)
 
 ## 1. Einleitung
 
