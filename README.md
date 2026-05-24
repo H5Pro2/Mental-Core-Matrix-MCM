@@ -96,6 +96,7 @@ Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlunge
 - [C – Die energetische Evolution des Menschen](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block C - Die energetische Evolutuion des Menschen.pdf>)  
 - [D – Die energetische Natur der Zeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D - Die energetische Natur der Zeit.pdf>)  
 - [E – Die kosmische Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E - Die kosmische Matrix.pdf>)  
+   - [E.1 – Die polare Entstehung des Universums](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E.1 - Die polare Entstehung des Universums.pdf>)
 - [F – Bewusstsein als möglicher Attraktor](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block F - Bewusstsein als kosmischer Attraktor.pdf>)  
 - [G – Die Multiversen-Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G - Die Multiversen-Matrix.pdf>)  
    - [G.1 – Erweiterungsblock: Reorganisation verdichteter Energie](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G.1 - Reorganisation verdichteter Energie in einen übergeordneten Feldbereich.pdf>)
