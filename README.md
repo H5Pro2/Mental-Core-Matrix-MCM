@@ -95,6 +95,8 @@ Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlunge
 - [B – Die Mental Core Matrix als mögliches Ordnungsprinzip](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block B - MCM als universelles Ordnungsprinzip.pdf>)  
 - [C – Die energetische Evolution des Menschen](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block C - Die energetische Evolutuion des Menschen.pdf>)  
 - [D – Die energetische Natur der Zeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D - Die energetische Natur der Zeit.pdf>)  
+   - [D.1 – Die Mental Core Matrix und die Feldzeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.1 - Die Mental Core Matrix und die Feldzeit.pdf>)
+   - [D.2 – Die MCM als zeitliche Tiefenstruktur gravitativer Rückführung](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.2 - Die MCM als zeitliche Tiefenstruktur gravitativer Rückführung.pdf>)
 - [E – Die kosmische Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E - Die kosmische Matrix.pdf>)  
    - [E.1 – Die polare Entstehung des Universums](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E.1 - Die polare Entstehung des Universums.pdf>)
 - [F – Bewusstsein als möglicher Attraktor](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block F - Bewusstsein als kosmischer Attraktor.pdf>)  
