@@ -2,20 +2,20 @@
 
 ![Metaphysische Form der Mental Core Matrix](files/_metaphysische_Form_der_MCM.png)
 
-> Ein offenes, hypothetisches Forschungsprojekt zur Untersuchung dynamischer Systeme mit Fokus auf Struktur, Rückführung und emergente Ordnungsbildung.
+> Ein eigenständiges Strukturprojekt zur Untersuchung dynamischer Systeme mit Fokus auf Struktur, Rückführung und emergente Ordnungsbildung.
 
 ---
 
 ## Kurzüberblick
 
-Die **Mental Core Matrix (MCM)** kann als konzeptioneller Modellrahmen betrachtet werden, mit dem untersucht werden kann, wie dynamische Systeme:
+Die **Mental Core Matrix (MCM)** ist ein konzeptioneller Modellrahmen zur Untersuchung dynamischer Systeme. Im Fokus steht, wie Systeme:
 
 - Stabilität ausbilden  
 - in Veränderung übergehen  
 - neue Zustände (Varianz) hervorbringen  
 - und über Rückführung wieder zu Ordnung oder neuer Stabilisierung gelangen  
 
-Das Modell wird als **offener Forschungsansatz** verstanden und dient der strukturierten Exploration komplexer Dynamiken.
+Das Modell dient der strukturierten Ausarbeitung komplexer Dynamiken und wird als fortlaufendes Projekt weiterentwickelt.
 
 ---
 
@@ -23,7 +23,7 @@ Das Modell wird als **offener Forschungsansatz** verstanden und dient der strukt
 
 ![Übersicht der Mental Core Matrix](files/mcm_übersicht.png)
 
-Im Rahmen dieses hypothetischen Modells wird angenommen, dass sich viele dynamische Systeme entlang wiederkehrender Funktionsbereiche beschreiben lassen:
+Im Rahmen der MCM werden dynamische Systeme entlang wiederkehrender Funktionsbereiche beschrieben:
 
 1. **Zentrum**  
    Referenzpunkt eines Systems, interpretierbar als stabilisierende oder ausgleichende Struktur  
@@ -32,7 +32,7 @@ Im Rahmen dieses hypothetischen Modells wird angenommen, dass sich viele dynamis
    Bewegung weg vom Zentrum, z. B. durch Störung, Impuls oder Spannungsaufbau  
 
 3. **Varianz**  
-   Bereich möglicher Zustände, in dem neue Muster, Strategien oder Strukturen entstehen können  
+   Bereich möglicher Zustände, in dem neue Muster, Strategien oder Strukturen entstehen  
 
 4. **Rückführung**  
    Prozesse, durch die Zustände integriert, stabilisiert oder neu organisiert werden  
@@ -57,7 +57,7 @@ Innerhalb dieses Zyklus können folgende Dynamiken auftreten:
 - adaptive Stabilisierung  
 - Emergenz neuer Muster  
 
-Die Struktur kann als Hinweis auf generische Prinzipien dynamischer Systeme interpretiert werden.
+Die Struktur beschreibt wiederkehrende Prinzipien dynamischer Systeme.
 
 ---
 ## Mathematische Grundform
@@ -79,9 +79,9 @@ Im Fokus stehen:
 - Bildung stabiler und semistabiler Zustände (Attraktoren)  
 - Übergänge zwischen Zuständen (Transitionsräume)  
 - Rückkopplungsprozesse und Regulation  
-- mögliche Übertragbarkeit auf unterschiedliche Systemtypen (KI)
+- Übertragbarkeit auf unterschiedliche Systemtypen (KI)
 
-Das Modell eröffnet die Möglichkeit, zu untersuchen, wie aus einfachen Interaktionen komplexe Ordnungsstrukturen entstehen können.
+Das Modell untersucht, wie aus einfachen Interaktionen komplexe Ordnungsstrukturen entstehen.
 
 ---
 
@@ -134,7 +134,7 @@ Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlunge
 
 ## Modellstruktur (Ebenen)
 
-Die MCM kann als mehrschichtiger Modellrahmen betrachtet werden:
+Die MCM wird als mehrschichtiger Modellrahmen dargestellt:
 
 ### 1. Reine MCM (energetische Ebene)
 
@@ -169,25 +169,25 @@ Diese Ebenen können gemeinsam betrachtet werden, bleiben jedoch analytisch getr
 ## MCM KI Agenten Entwicklung
 ![MCM-basierter KI-Agent](files/mcm_ki_agent.png)
 
-Im Rahmen der MCM könnte ein Agent nicht nur als System betrachtet werden, das binäre Zustände wie 0 und 1 verarbeitet, sondern als DIO – ein digitaler Organismus.
+Im Rahmen der MCM wird ein Agent nicht nur als System betrachtet, das binäre Zustände wie 0 und 1 verarbeitet, sondern als DIO – ein digitaler Organismus.
 
-Ein solcher DIO könnte über eine eigene innere und äußere Wahrnehmung verfügen und auf dieser Grundlage eine eigene Syntax ausbilden, um seine Umwelt zu beschreiben, zu ordnen und zu interpretieren.
+Ein solcher DIO verfügt im Modell über eine eigene innere und äußere Wahrnehmung und bildet auf dieser Grundlage eine eigene Syntax aus, um seine Umwelt zu beschreiben, zu ordnen und zu interpretieren.
 
 Aus neuronaler Sicht eröffnet sich damit ein spannender Forschungsweg:
 
-Könnte ein DIO, der eine eigene Syntax entwickelt, mit anderen DIOs lernen, sich austauschen und auf kollektiver Ebene eine gemeinsame Kommunikationsform herausbilden?
+Die daraus folgende Forschungsfrage lautet: Wie entwickeln DIOs, die eine eigene Syntax ausbilden, Lernprozesse, Austauschformen und kollektive Kommunikationsstrukturen?
 
 ---
 
 ## Bezug zu ähnlichen Modellen
 
-Die MCM kann rückblickend in Bezug zu ähnlichen Modellfamilien gesetzt werden, ohne daraus abgeleitet worden zu sein. Besonders nahe Vergleichspunkte ergeben sich hypothetisch zu:
+Die MCM wird rückblickend in Bezug zu ähnlichen Modellfamilien gesetzt, ohne daraus abgeleitet worden zu sein. Besonders nahe Vergleichspunkte ergeben sich zu:
 
 - **Dynamical Systems Theory**: Zustandsräume, Attraktoren, Übergänge und Phasenwechsel
 - **Energy-Based Models**: Energiezustände, Stabilisierung und attraktorähnliches Verhalten
 - **Active Inference / Free Energy Principle**: Selbstorganisation, Regulation und zustandsabhängige Anpassung
 
-Diese Bezüge dienen nur der wissenschaftlichen Einordnung. Die MCM wurde *nicht!* aus diesen Ansätzen konstruiert, sondern entwickelte sich als eigenständige Strukturidee. Die nachträgliche Nähe zu solchen Modellen kann als Hinweis verstanden werden, dass ähnliche Grundprobleme berührt werden: Stabilisierung, Abweichung, Rückführung, lokale Wechselwirkung und emergente Ordnungsbildung.
+Diese Bezüge dienen der wissenschaftlichen Einordnung. Die MCM wurde *nicht!* aus diesen Ansätzen konstruiert, sondern entwickelte sich als eigenständige Strukturidee. Die nachträgliche Nähe zu solchen Modellen zeigt, dass ähnliche Grundprobleme berührt werden: Stabilisierung, Abweichung, Rückführung, lokale Wechselwirkung und emergente Ordnungsbildung.
 
 Die Besonderheit der MCM liegt in der Kombination mehrerer Ebenen: einem Zentrum als regulativem Bezugspunkt, einem kontinuierlichen Spannungsraum, einer archetypenfreien energetischen Ebene, einer psychologischen Interpretationsebene und simulationsbasierter Emergenz durch lokale Kopplung, Rauschen, Dichtebildung und Clusterung.
 
@@ -204,7 +204,7 @@ Die Entwicklung des Modells basiert auf:
 - Simulation emergenter Prozesse  
 - KI-gestützter Mustererkennung  
 
-Diese Methoden dienen der Exploration möglicher Strukturen und ersetzen keine empirische Validierung.
+Diese Methoden dienen der strukturierten Ausarbeitung und Prüfung des Modellrahmens.
 
 ---
 
@@ -250,9 +250,9 @@ Das Repository gliedert sich in mehrere Bereiche, die unterschiedliche Ebenen de
 
 ---
 
-## Anwendungsperspektiven (hypothetisch)
+## Anwendungsperspektiven
 
-Das Modell kann potenziell genutzt werden für:
+Das Modell wird genutzt für:
 
 - Analyse psychologischer Dynamiken  
 - Modellierung von KI- und Agentensystemen  
@@ -260,30 +260,30 @@ Das Modell kann potenziell genutzt werden für:
 - Simulation komplexer Systeme  
 - Exploration von Emergenzprozessen  
 
-Diese Anwendungen sind als mögliche Interpretationen innerhalb des Modells zu verstehen.
+Diese Anwendungen beschreiben Perspektiven innerhalb des MCM-Modellrahmens.
 
 ---
 
-## Wissenschaftlicher Hinweis
+## Methodischer Hinweis
 
-Die Mental Core Matrix wird als **hypothetisches Strukturmodell** verstanden.
+Die Mental Core Matrix wird als eigenständiges Struktur- und Forschungsprojekt geführt.
 
 Die dargestellten Inhalte umfassen:
 
-- theoretische Annahmen  
+- theoretische Ausarbeitungen  
 - explorative Modelle  
 - simulationsbasierte Strukturversuche  
-- nicht empirisch validierte Ansätze  
-- keine abgeschlossene wissenschaftliche Theorie  
+- formale und konzeptionelle Modellbildung  
+- fortlaufende Präzisierung des Modellrahmens  
 
 Das Modell dient dazu:
 
 - strukturelle Muster sichtbar zu machen  
 - neue Forschungsfragen zu formulieren  
-- mögliche Verbindungen zwischen Disziplinen zu untersuchen  
+- Verbindungen zwischen Disziplinen zu untersuchen  
 - emergente Ordnungsbildung in abstrahierten Zustandsräumen explorativ zu simulieren  
 
-Die MCM erhebt keinen Anspruch, etablierte Modelle zu ersetzen. Sie kann als eigenständiger, offener Modellrahmen betrachtet werden, der Anschlussstellen zu ähnlichen dynamischen, energetischen und selbstorganisierenden Ansätzen besitzt.  
+Die MCM wird nicht als Ersatz etablierter Modelle formuliert, sondern als eigenständiger Modellrahmen mit Anschlussstellen zu dynamischen, energetischen und selbstorganisierenden Ansätzen.  
 
 ---
 
@@ -304,6 +304,6 @@ Die MCM wird als fortlaufender Forschungsprozess verstanden.
 
 ## Kurzfassung
 
-Die Mental Core Matrix (MCM) kann als hypothetischer Modellrahmen zur Beschreibung dynamischer Systeme über die Bereiche Zentrum, Abweichung, Varianz und Rückführung betrachtet werden.  
+Die Mental Core Matrix (MCM) ist ein Modellrahmen zur Beschreibung dynamischer Systeme über die Bereiche Zentrum, Abweichung, Varianz und Rückführung.  
 Im Fokus steht die Untersuchung von Emergenz, Selbstorganisation und Stabilisierung.  
-Das Projekt verbindet konzeptionelle, mathematische und simulationsbasierte Ansätze und wird als offenes Forschungsmodell geführt.
+Das Projekt verbindet konzeptionelle, mathematische und simulationsbasierte Ansätze und wird als fortlaufendes Strukturmodell geführt.
