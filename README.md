@@ -187,7 +187,7 @@ Die MCM wird rückblickend in Bezug zu ähnlichen Modellfamilien gesetzt, ohne d
 - **Energy-Based Models**: Energiezustände, Stabilisierung und attraktorähnliches Verhalten
 - **Active Inference / Free Energy Principle**: Selbstorganisation, Regulation und zustandsabhängige Anpassung
 
-Diese Bezüge dienen der wissenschaftlichen Einordnung. Die MCM wurde *nicht!* aus diesen Ansätzen konstruiert, sondern entwickelte sich als eigenständige Strukturidee. Die nachträgliche Nähe zu solchen Modellen zeigt, dass ähnliche Grundprobleme berührt werden: Stabilisierung, Abweichung, Rückführung, lokale Wechselwirkung und emergente Ordnungsbildung.
+Diese Bezüge dienen der wissenschaftlichen Einordnung. Die MCM/DIO-Forschung wurde jedoch nicht aus diesen Feldern abgeleitet. Ihr Ausgangspunkt war die Betrachtung des Kunstwerkes *The Last Supper*. Das darin gefundene Muster war interessant und eine nähere Betrachtung wert; darin lag die Grundlage der MCM, der Idee eines Digitalen Organismus und späterer MINI_DIO-Experimente. Die nachträgliche Nähe zu solchen Modellen zeigt, dass ähnliche Grundprobleme berührt werden: Stabilisierung, Abweichung, Rückführung, lokale Wechselwirkung und emergente Ordnungsbildung.
 
 Die Besonderheit der MCM liegt in der Kombination mehrerer Ebenen: einem Zentrum als regulativem Bezugspunkt, einem kontinuierlichen Spannungsraum, einer archetypenfreien energetischen Ebene, einer psychologischen Interpretationsebene und simulationsbasierter Emergenz durch lokale Kopplung, Rauschen, Dichtebildung und Clusterung.
 
