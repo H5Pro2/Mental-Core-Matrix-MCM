@@ -104,6 +104,7 @@ Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlunge
 - [G – Die Multiversen-Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G - Die Multiversen-Matrix.pdf>)  
    - [G.1 – Erweiterungsblock: Reorganisation verdichteter Energie](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G.1 - Reorganisation verdichteter Energie in einen übergeordneten Feldbereich.pdf>)
 - [H – MCM und die Dynamik der Individualität](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block H - MCM und das Phänomen der Individualität.pdf>)  
+   - [H.1 – Individuelle Feldtopologie](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block H.1 - Individuelle Feldtopologie.pdf>)
 - [I – MCM und evolutionäre Prozesse](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block I - MCM und die Dynamik evolutionärer Prozesse.pdf>)  
 
 ---
