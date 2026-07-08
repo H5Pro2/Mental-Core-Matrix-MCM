@@ -117,6 +117,7 @@ Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlunge
    - [K.1 – Adaptive passive Rekopplung als Form innerer Selbstregulation](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block K.1 - Adaptive passive Rekopplung als Form innerer Selbstregulation.pdf>)
 - [L – Soziale Dynamik](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block L- Soziale Dynamik im Modell der Mental Core Matrix.pdf>)  
 - [M – Die MCM und das Selbst](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block M - die MCM und das Selbst.pdf>)  
+   - [M.1 – Bedeutung als Beziehungsmuster im MCM-Feld](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block M.1 - Bedeutung als Beziehungsmuster im MCM-Feld.pdf>)
 - [N – Trauma und Musterstörungen](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block N - Trauma und extreme Musterstörungen im energetischen System.pdf>)  
 - [O – Kreativität](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block O - Kreativität im Modell der Mental Core Matrix.pdf>)  
 - [P – Angst](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block P - Angst im Modell der Mental Core Matrix.pdf>)  
