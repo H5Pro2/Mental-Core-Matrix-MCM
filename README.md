@@ -97,6 +97,7 @@ Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlunge
 - [D – Die energetische Natur der Zeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D - Die energetische Natur der Zeit.pdf>)  
    - [D.1 – Die Mental Core Matrix und die Feldzeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.1 - Die Mental Core Matrix und die Feldzeit.pdf>)
    - [D.2 – Die MCM als zeitliche Tiefenstruktur gravitativer Rückführung](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.2 - Die MCM als zeitliche Tiefenstruktur gravitativer Rückführung.pdf>)
+   - [D.3 – Feldzeit und Nachhall als Integrationsqualität der MCM](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.3 - Feldzeit und Nachhall als Integrationsqualität der MCM.pdf>)
 - [E – Die kosmische Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E - Die kosmische Matrix.pdf>)  
    - [E.1 – Die polare Entstehung des Universums](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E.1 - Die polare Entstehung des Universums.pdf>)
 - [F – Bewusstsein als möglicher Attraktor](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block F - Bewusstsein als kosmischer Attraktor.pdf>)  
@@ -111,6 +112,7 @@ Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlunge
 
 - [J – Die menschliche Psyche im Modell](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block J - Die menschliche Psyche im Modell der Mental Core Matrix.pdf>)  
 - [K – Individuelle Selbstregulation](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block K - Individuelle Selbstregulation im Modell der Mental Core Matrix.pdf>)  
+   - [K.1 – Adaptive passive Rekopplung als Form innerer Selbstregulation](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block K.1 - Adaptive passive Rekopplung als Form innerer Selbstregulation.pdf>)
 - [L – Soziale Dynamik](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block L- Soziale Dynamik im Modell der Mental Core Matrix.pdf>)  
 - [M – Die MCM und das Selbst](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block M - die MCM und das Selbst.pdf>)  
 - [N – Trauma und Musterstörungen](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block N - Trauma und extreme Musterstörungen im energetischen System.pdf>)  
