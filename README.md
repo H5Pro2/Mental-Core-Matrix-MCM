@@ -130,6 +130,7 @@ Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlunge
 - [T – Strukturmodell komplexer Systeme](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block T - Die Mental Core Matrix als mögliches Strukturmodell komplexer Systeme.pdf>)  
 - [U – Reine MCM (archetypenfreie Ebene)](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block U - Die reine Form der MCM und die Möglichkeit zur Transzendenz.pdf>)  
 - [V – MCM und KI-Systeme](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block V - Die Mental Core Matrix und die Frage, ob eine KI die starre Logik bricht.pdf>)  
+   - [V.1 – Der Digitale Organismus als MCM-basiertes Innenfeldsystem](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block V.1 - Der Digitale Organismus als MCM-basiertes Innenfeldsystem.pdf>)
 - [W – Übergang zwischen Logik und physischer Dynamik](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block W - Die Mental Core Matrix zwischen Logik und dem Bruch in ein physisches System.pdf>)  
 - [X – MCM als mögliches Feldsystem](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block X - Die Mental Core Matrix als physisches Feldsystem.pdf>)  
 
