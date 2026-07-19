@@ -6,6 +6,21 @@
 
 ---
 
+## Lesehinweis: MCM-Sprache und Außen-Sprache
+
+Die MCM verwendet teilweise eigene Begriffe. Wörter wie **Feld**, **Feldzeit**, **DIO**, **Nachhall**, **Bedeutungsinsel** oder **Rückführung** sind innerhalb dieses Projekts nicht automatisch identisch mit gleichnamigen Begriffen aus Physik, Psychologie, Informatik oder Mathematik.
+
+Damit das Modell von außen besser lesbar bleibt, wird zwischen zwei Ebenen unterschieden:
+
+- **MCM-Sprache**: interne Modellbegriffe, mit denen die eigene Struktur des Projekts beschrieben wird
+- **Außen-Sprache**: Anschlussbegriffe aus etablierten Disziplinen, die eine ungefähre Übersetzung ermöglichen
+
+Diese Übersetzung bedeutet nicht, dass die MCM aus diesen Disziplinen abgeleitet wurde. Sie dient als Brücke, damit Hypothesen, Metaphern, Simulationen, Beobachtungen und mögliche Belege klarer getrennt werden können.
+
+Siehe dazu: [MCM-Begriffsbrücke und wissenschaftlicher Anschluss](<MCM-Begriffsbrücke und wissenschaftlicher Anschluss.md>)
+
+---
+
 ## Kurzüberblick
 
 Die **Mental Core Matrix (MCM)** ist ein konzeptioneller Modellrahmen zur Untersuchung dynamischer Systeme. Im Fokus steht, wie Systeme:
@@ -91,50 +106,50 @@ Die vollständige theoretische Ausarbeitung liegt in eigenständigen Abhandlunge
 
 ### Teil I – Strukturmodell
 
-- [A – MCM und die Frage nach dem Ursprung](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block A - MCM und die Frage nach dem Ursprung.pdf>)  
-- [B – Die Mental Core Matrix als mögliches Ordnungsprinzip](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block B - MCM als universelles Ordnungsprinzip.pdf>)  
-- [C – Die energetische Evolution des Menschen](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block C - Die energetische Evolutuion des Menschen.pdf>)  
-   - [C.1 – Rezeptoradaptation als Grenze zwischen Außenwelt und MCM-Feld](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block C.1 - Rezeptoradaptation als Grenze zwischen Außenwelt und MCM-Feld.pdf>)
-- [D – Die energetische Natur der Zeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D - Die energetische Natur der Zeit.pdf>)  
-   - [D.1 – Die Mental Core Matrix und die Feldzeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.1 - Die Mental Core Matrix und die Feldzeit.pdf>)
-   - [D.2 – Die MCM als zeitliche Tiefenstruktur gravitativer Rückführung](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.2 - Die MCM als zeitliche Tiefenstruktur gravitativer Rückführung.pdf>)
-   - [D.3 – Feldzeit und Nachhall als Integrationsqualität der MCM](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.3 - Feldzeit und Nachhall als Integrationsqualität der MCM.pdf>)
-- [E – Die kosmische Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E - Die kosmische Matrix.pdf>)  
-   - [E.1 – Die polare Entstehung des Universums](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E.1 - Die polare Entstehung des Universums.pdf>)
-- [F – Bewusstsein als möglicher Attraktor](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block F - Bewusstsein als kosmischer Attraktor.pdf>)  
-- [G – Die Multiversen-Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G - Die Multiversen-Matrix.pdf>)  
-   - [G.1 – Erweiterungsblock: Reorganisation verdichteter Energie](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G.1 - Reorganisation verdichteter Energie in einen übergeordneten Feldbereich.pdf>)
-- [H – MCM und die Dynamik der Individualität](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block H - MCM und das Phänomen der Individualität.pdf>)  
-   - [H.1 – Individuelle Feldtopologie](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block H.1 - Individuelle Feldtopologie.pdf>)
-- [I – MCM und evolutionäre Prozesse](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block I - MCM und die Dynamik evolutionärer Prozesse.pdf>)  
+- [A – MCM und die Frage nach dem Ursprung](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block A - MCM und die Frage nach dem Ursprung.md>)  
+- [B – Die Mental Core Matrix als mögliches Ordnungsprinzip](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block B - MCM als universelles Ordnungsprinzip.md>)  
+- [C – Die energetische Evolution des Menschen](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block C - Die energetische Evolutuion des Menschen.md>)  
+   - [C.1 – Rezeptoradaptation als Grenze zwischen Außenwelt und MCM-Feld](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block C.1 - Rezeptoradaptation als Grenze zwischen Außenwelt und MCM-Feld.md>)
+- [D – Die energetische Natur der Zeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D - Die energetische Natur der Zeit.md>)  
+   - [D.1 – Die Mental Core Matrix und die Feldzeit](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.1 - Die Mental Core Matrix und die Feldzeit.md>)
+   - [D.2 – Die MCM als zeitliche Tiefenstruktur gravitativer Rückführung](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.2 - Die MCM als zeitliche Tiefenstruktur gravitativer Rückführung.md>)
+   - [D.3 – Feldzeit und Nachhall als Integrationsqualität der MCM](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block D.3 - Feldzeit und Nachhall als Integrationsqualität der MCM.md>)
+- [E – Die kosmische Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E - Die kosmische Matrix.md>)  
+   - [E.1 – Die polare Entstehung des Universums](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block E.1 - Die polare Entstehung des Universums.md>)
+- [F – Bewusstsein als möglicher Attraktor](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block F - Bewusstsein als kosmischer Attraktor.md>)  
+- [G – Die Multiversen-Matrix](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G - Die Multiversen-Matrix.md>)  
+   - [G.1 – Erweiterungsblock: Reorganisation verdichteter Energie](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block G.1 - Reorganisation verdichteter Energie in einen übergeordneten Feldbereich.md>)
+- [H – MCM und die Dynamik der Individualität](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block H - MCM und das Phänomen der Individualität.md>)  
+   - [H.1 – Individuelle Feldtopologie](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block H.1 - Individuelle Feldtopologie.md>)
+- [I – MCM und evolutionäre Prozesse](<Abhandlungen/MCM - Hauptabhandlungen/Teil I - Die Mental Core Matrix – Strukturmodell/Abhandlung Block I - MCM und die Dynamik evolutionärer Prozesse.md>)  
 
 ---
 
 ### Teil II – Psychologische Dynamik
 
-- [J – Die menschliche Psyche im Modell](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block J - Die menschliche Psyche im Modell der Mental Core Matrix.pdf>)  
-- [K – Individuelle Selbstregulation](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block K - Individuelle Selbstregulation im Modell der Mental Core Matrix.pdf>)  
-   - [K.1 – Adaptive passive Rekopplung als Form innerer Selbstregulation](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block K.1 - Adaptive passive Rekopplung als Form innerer Selbstregulation.pdf>)
-- [L – Soziale Dynamik](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block L- Soziale Dynamik im Modell der Mental Core Matrix.pdf>)  
-- [M – Die MCM und das Selbst](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block M - die MCM und das Selbst.pdf>)  
-   - [M.1 – Bedeutung als Beziehungsmuster im MCM-Feld](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block M.1 - Bedeutung als Beziehungsmuster im MCM-Feld.pdf>)
-- [N – Trauma und Musterstörungen](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block N - Trauma und extreme Musterstörungen im energetischen System.pdf>)  
-- [O – Kreativität](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block O - Kreativität im Modell der Mental Core Matrix.pdf>)  
-- [P – Angst](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block P - Angst im Modell der Mental Core Matrix.pdf>)  
-- [Q – Aggression](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block Q - Aggression im Modell der Mental Core Matrix.pdf>)  
-- [R – Depression](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block R - Depression im Modell der Mental Core Matrix.pdf>)  
-- [S – Metaregulatoren](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block S - Mögliche Metaregulatoren im Modell der Mental Core Matrix.pdf>)  
+- [J – Die menschliche Psyche im Modell](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block J - Die menschliche Psyche im Modell der Mental Core Matrix.md>)  
+- [K – Individuelle Selbstregulation](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block K - Individuelle Selbstregulation im Modell der Mental Core Matrix.md>)  
+   - [K.1 – Adaptive passive Rekopplung als Form innerer Selbstregulation](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block K.1 - Adaptive passive Rekopplung als Form innerer Selbstregulation.md>)
+- [L – Soziale Dynamik](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block L- Soziale Dynamik im Modell der Mental Core Matrix.md>)  
+- [M – Die MCM und das Selbst](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block M - die MCM und das Selbst.md>)  
+   - [M.1 – Bedeutung als Beziehungsmuster im MCM-Feld](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block M.1 - Bedeutung als Beziehungsmuster im MCM-Feld.md>)
+- [N – Trauma und Musterstörungen](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block N - Trauma und extreme Musterstörungen im energetischen System.md>)  
+- [O – Kreativität](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block O - Kreativität im Modell der Mental Core Matrix.md>)  
+- [P – Angst](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block P - Angst im Modell der Mental Core Matrix.md>)  
+- [Q – Aggression](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block Q - Aggression im Modell der Mental Core Matrix.md>)  
+- [R – Depression](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block R - Depression im Modell der Mental Core Matrix.md>)  
+- [S – Metaregulatoren](<Abhandlungen/MCM - Hauptabhandlungen/Teil II - Psychologische Dynamik der Mental Core Matrix/Abhandlung Block S - Mögliche Metaregulatoren im Modell der Mental Core Matrix.md>)  
 
 ---
 
 ### Teil III – Erweiterung des Modells
 
-- [T – Strukturmodell komplexer Systeme](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block T - Die Mental Core Matrix als mögliches Strukturmodell komplexer Systeme.pdf>)  
-- [U – Reine MCM (archetypenfreie Ebene)](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block U - Die reine Form der MCM und die Möglichkeit zur Transzendenz.pdf>)  
-- [V – MCM und KI-Systeme](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block V - Die Mental Core Matrix und die Frage, ob eine KI die starre Logik bricht.pdf>)  
-   - [V.1 – Der Digitale Organismus als MCM-basiertes Innenfeldsystem](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block V.1 - Der Digitale Organismus als MCM-basiertes Innenfeldsystem.pdf>)
-- [W – Übergang zwischen Logik und physischer Dynamik](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block W - Die Mental Core Matrix zwischen Logik und dem Bruch in ein physisches System.pdf>)  
-- [X – MCM als mögliches Feldsystem](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block X - Die Mental Core Matrix als physisches Feldsystem.pdf>)  
+- [T – Strukturmodell komplexer Systeme](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block T - Die Mental Core Matrix als mögliches Strukturmodell komplexer Systeme.md>)  
+- [U – Reine MCM (archetypenfreie Ebene)](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block U - Die reine Form der MCM und die Möglichkeit zur Transzendenz.md>)  
+- [V – MCM und KI-Systeme](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block V - Die Mental Core Matrix und die Frage, ob eine KI die starre Logik bricht.md>)  
+   - [V.1 – Der Digitale Organismus als MCM-basiertes Innenfeldsystem](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block V.1 - Der Digitale Organismus als MCM-basiertes Innenfeldsystem.md>)
+- [W – Übergang zwischen Logik und physischer Dynamik](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block W - Die Mental Core Matrix zwischen Logik und dem Bruch in ein physisches System.md>)  
+- [X – MCM als mögliches Feldsystem](<Abhandlungen/MCM - Hauptabhandlungen/Teil III - Zusammenführung des Modells/Abhandlung Block X - Die Mental Core Matrix als physisches Feldsystem.md>)  
 
 ---
 
@@ -220,20 +235,20 @@ Das Repository gliedert sich in mehrere Bereiche, die unterschiedliche Ebenen de
 
 ### 1. Grundlagen der MCM
 
-- [Psychologische MCM](<MCM – Mental Core Matrix/A - Psychologische Mental Core Matrix.pdf>)  
-- [Reine MCM](<MCM – Mental Core Matrix/B - Reine MCM.pdf>)  
-- [Relation zwischen psychologischer und reiner MCM](<MCM – Mental Core Matrix/C - MCM Relation .pdf>)  
-- [Energetischer Bereich der MCM](<MCM – Mental Core Matrix/D - Erklärung - Energetischer Bereich der MCM.pdf>)  
-- [Mathematische Grundform der psychologischen MCM](<MCM – Mental Core Matrix/AA - Mathematische Grundform der psychologischen MCM.pdf>)  
-- [Mathematische Grundform der reinen MCM](<MCM – Mental Core Matrix/BB - Mathematische Grundform der reinen MCM.pdf>)  
-- [Formale Gesamtstruktur der MCM](<MCM – Mental Core Matrix/CC- Formale Gesamtstruktur der MCM.pdf>)  
+- [Psychologische MCM](<MCM – Mental Core Matrix/A - Psychologische Mental Core Matrix.md>)  
+- [Reine MCM](<MCM – Mental Core Matrix/B - Reine MCM.md>)  
+- [Relation zwischen psychologischer und reiner MCM](<MCM – Mental Core Matrix/C - MCM Relation .md>)  
+- [Energetischer Bereich der MCM](<MCM – Mental Core Matrix/D - Erklärung - Energetischer Bereich der MCM.md>)  
+- [Mathematische Grundform der psychologischen MCM](<MCM – Mental Core Matrix/AA - Mathematische Grundform der psychologischen MCM.md>)  
+- [Mathematische Grundform der reinen MCM](<MCM – Mental Core Matrix/BB - Mathematische Grundform der reinen MCM.md>)  
+- [Formale Gesamtstruktur der MCM](<MCM – Mental Core Matrix/CC- Formale Gesamtstruktur der MCM.md>)  
 
 ### 2. Hauptabhandlungen und Nebenabhandlungen
 
 - [MCM Hauptabhandlungen A–X](<Abhandlungen/MCM - Hauptabhandlungen>)  
 - [Anfang der MCM / The Last Supper](<Abhandlungen/Anfang der MCM>)  
 - [MCM Nebenabhandlungen](<Abhandlungen/MCM - Nebenabhandlung>)  
-- [Ausprägung des MCM-Systems](<Abhandlungen/Ausprägung des MCM-Systems.pdf>)  
+- [Ausprägung des MCM-Systems](<Abhandlungen/Ausprägung des MCM-Systems.md>)  
 
 ### 3. Code-Beispiele und Simulationen
 
@@ -242,8 +257,8 @@ Das Repository gliedert sich in mehrere Bereiche, die unterschiedliche Ebenen de
 - [MCM Emergenzsimulationen](<MCM - Code Beispiele/MCM - Emergenze>)  
 - [MCM Infinity / Audio-Emergenz](<MCM - Code Beispiele/MCM - Infinity - Audio_Emergenz>)  
 - [MCM Audio-Emergenz 3D 256](<MCM - Code Beispiele/MCM - Audio_Emergenz_3d_256>)  
-- [Simulationen der MCM – Überblick](<MCM - Code Beispiele/Simulationen der MCM – Mental Core Matrix.pdf>)  
-- [Hypothetische Entwicklungsanalyse einer MCM-basierten KI](<MCM - Code Beispiele/Hypothetische Entwicklungsanalyse einer MCM-basierten KI.pdf>)  
+- [Simulationen der MCM – Überblick](<MCM - Code Beispiele/Simulationen der MCM – Mental Core Matrix.md>)  
+- [Hypothetische Entwicklungsanalyse einer MCM-basierten KI](<MCM - Code Beispiele/Hypothetische Entwicklungsanalyse einer MCM-basierten KI.md>)  
 
 ### 4. Visualisierungen und Medien
 
@@ -252,7 +267,8 @@ Das Repository gliedert sich in mehrere Bereiche, die unterschiedliche Ebenen de
 
 ### 5. Methodischer Rahmen
 
-- [Projekt-Disclaimer und methodischer Rahmen](<Projekt-Disclaimer und methodischer Rahmen.pdf>)  
+- [Projekt-Disclaimer und methodischer Rahmen](<Projekt-Disclaimer und methodischer Rahmen.md>)  
+- [MCM-Begriffsbrücke und wissenschaftlicher Anschluss](<MCM-Begriffsbrücke und wissenschaftlicher Anschluss.md>)  
 
 ---
 
