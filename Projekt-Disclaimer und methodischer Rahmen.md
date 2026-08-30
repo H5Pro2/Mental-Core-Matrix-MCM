@@ -41,6 +41,25 @@ der Realität.
 Es dient ausschließlich als experimenteller Denkrahmen, um mögliche Strukturprinzipien
 komplexer Systeme zu explorieren.
 
+Funktion als abstrakte Bauanleitung
+Die MCM ist keine fertige Weltanschauung und keine behauptete Erklärung der Wirklichkeit.
+Sie dient als abstrakte Bauanleitung für das Entwerfen, Beschreiben und Vergleichen von
+Modellen dynamischer Systeme. Die Begriffe Zentrum, Abweichung, Varianz und Rückführung
+bezeichnen dabei interne Modellfunktionen. Sie sind nicht automatisch physikalische,
+psychologische oder biologische Größen.
+
+Die Abhandlungen dürfen deshalb als theoretische Konstruktionen, Denkexperimente und
+Entwurfsvorlagen gelesen werden. Aussagen über Universum, Bewusstsein, Psyche oder KI
+sind innerhalb des jeweiligen Modells zu verstehen und nicht als gesicherte Tatsachen,
+Diagnosen oder naturwissenschaftliche Erklärungen.
+
+Verhältnis zu Projekten und möglichen Tests
+Simulationen, IO-Projekte und technische Prototypen können zeigen, ob eine bestimmte
+Übersetzung der MCM in Code oder ein anderes System konsistent funktioniert. Ein solches
+Ergebnis wäre ein Befund über die jeweilige Umsetzung. Es wäre kein Beleg für die MCM als
+allgemeine Theorie. Die theoretischen Abhandlungen enthalten daher keine eigene
+empirische Beweisführung.
+
 Inhalt dieses Repositorys
 Das Projekt umfasst mehrere unterschiedliche Ebenen der Exploration:
 1. Konzeptionelle Abhandlungen

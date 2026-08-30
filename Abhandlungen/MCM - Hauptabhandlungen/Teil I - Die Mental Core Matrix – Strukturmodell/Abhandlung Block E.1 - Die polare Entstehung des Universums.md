@@ -1,4 +1,12 @@
 # Abhandlung Block E.1 - Die polare Entstehung des Universums
+## Einordnung
+
+- **Status:** Spekulative hypothetische Erweiterung
+- **Ebene:** Kosmologische bzw. metaphysische Analogie innerhalb der MCM
+- **Funktion:** Abstrakte Bauanleitung für die Beschreibung von Polarität, Zuständen und Rückführung
+- **Geltungsbereich:** Der Text ist ein Denkmodell. Er behauptet keine physikalische Erklärung oder empirisch bestätigte Aussage über das Universum.
+- **Prüfung:** Eine unmittelbare empirische Prüfung wird hier nicht beansprucht. Einzelne strukturelle Ideen können allenfalls in separaten Modellen untersucht werden.
+
 
 
 Block E.1

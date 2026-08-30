@@ -1,4 +1,12 @@
 # Abhandlung Block V.1 - Der Digitale Organismus als MCM-basiertes Innenfeldsystem
+## Einordnung
+
+- **Status:** Hypothetischer technischer Entwurf
+- **Ebene:** Abstrakte Architektur für digitale Systeme
+- **Funktion:** Bauanleitung für Zustände, Rückkopplungen und mögliche emergente Organisation
+- **Geltungsbereich:** Der Text beschreibt eine Modellidee, kein bereits nachgewiesenes Bewusstsein, keinen fertigen Organismus und keine gesicherte technische Eigenschaft.
+- **Prüfung:** Eine konkrete Implementierung kann separat getestet werden. Testergebnisse beziehen sich auf die Implementierung und belegen nicht die MCM als allgemeine Theorie.
+
 
 
 Block K.1

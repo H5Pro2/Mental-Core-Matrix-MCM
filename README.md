@@ -23,7 +23,7 @@ Siehe dazu: [MCM-Begriffsbrücke und wissenschaftlicher Anschluss](<MCM-Begriffs
 
 ## Kurzüberblick
 
-Die **Mental Core Matrix (MCM)** ist ein konzeptioneller Modellrahmen zur Untersuchung dynamischer Systeme. Im Fokus steht, wie Systeme:
+Die **Mental Core Matrix (MCM)** ist ein hypothetischer, konzeptioneller Modellrahmen zur Beschreibung dynamischer Systeme. Im Fokus steht, wie Systeme:
 
 - Stabilität ausbilden  
 - in Veränderung übergehen  
@@ -52,7 +52,15 @@ Im Rahmen der MCM werden dynamische Systeme entlang wiederkehrender Funktionsber
 4. **Rückführung**  
    Prozesse, durch die Zustände integriert, stabilisiert oder neu organisiert werden  
 
-Diese vier Bereiche können als **dynamischer Zyklus mit Rückkopplungen** interpretiert werden.
+Diese vier Bereiche können innerhalb des Modells als **dynamischer Zyklus mit Rückkopplungen** interpretiert werden.
+
+## Geltungsbereich der Abhandlungen
+
+Die MCM ist ein theoretisches Projekt und eine abstrakte Bauanleitung für Modellbildung. Die Abhandlungen formulieren interne Begriffe, Beziehungen und Denkexperimente. Sie sind keine empirisch bestätigte Theorie, keine Diagnosegrundlage und keine physikalische Erklärung.
+
+Kosmologische, metaphysische, psychologische und technische Aussagen haben jeweils den Status einer hypothetischen Interpretation. Eine Simulation oder ein IO-Projekt kann nur prüfen, ob eine konkrete Umsetzung des Modells funktioniert oder bestimmte Muster erzeugt. Das Ergebnis belegt nicht automatisch die MCM als allgemeine Theorie.
+
+Die klare Trennung lautet daher: Abhandlungen entwickeln die Modellidee; Projekte und Simulationen untersuchen einzelne Umsetzungen.
 
 ---
 
@@ -225,7 +233,7 @@ Die Entwicklung des Modells basiert auf:
 - Simulation emergenter Prozesse  
 - KI-gestützter Mustererkennung  
 
-Diese Methoden dienen der strukturierten Ausarbeitung und Prüfung des Modellrahmens.
+Diese Methoden dienen der strukturierten Ausarbeitung und der Untersuchung einzelner Umsetzungen des Modellrahmens. Sie stellen keine allgemeine empirische Bestätigung der MCM dar.
 
 ---
 
@@ -305,7 +313,7 @@ Das Modell dient dazu:
 - Verbindungen zwischen Disziplinen zu untersuchen  
 - emergente Ordnungsbildung in abstrahierten Zustandsräumen explorativ zu simulieren  
 
-Die MCM wird nicht als Ersatz etablierter Modelle formuliert, sondern als eigenständiger Modellrahmen mit Anschlussstellen zu dynamischen, energetischen und selbstorganisierenden Ansätzen.  
+Die MCM wird nicht als Ersatz etablierter Modelle formuliert, sondern als eigenständiger hypothetischer Modellrahmen mit Anschlussstellen zu dynamischen, energetischen und selbstorganisierenden Ansätzen.
 
 ---
 

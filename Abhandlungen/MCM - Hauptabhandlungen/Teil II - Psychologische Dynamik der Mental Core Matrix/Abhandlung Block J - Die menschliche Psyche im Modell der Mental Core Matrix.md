@@ -1,4 +1,12 @@
 # Abhandlung Block J - Die menschliche Psyche im Modell der Mental Core Matrix
+## Einordnung
+
+- **Status:** Hypothetische Modellanwendung
+- **Ebene:** Psychologische bzw. soziale Interpretation innerhalb der MCM
+- **Funktion:** Abstrakte Bauanleitung für Zustände, Beziehungen und Rückführung
+- **Geltungsbereich:** Die beschriebenen Aussagen sind keine Diagnosen und keine empirisch bestätigten Erklärungen. Sie dienen als interne Modellkonstruktion.
+- **Prüfung:** Eine konkrete Umsetzung kann separat in Simulationen oder Prototypen untersucht werden. Ein Ergebnis gilt nur für diese Umsetzung und belegt nicht die MCM als allgemeine Theorie.
+
 
 
 Block J

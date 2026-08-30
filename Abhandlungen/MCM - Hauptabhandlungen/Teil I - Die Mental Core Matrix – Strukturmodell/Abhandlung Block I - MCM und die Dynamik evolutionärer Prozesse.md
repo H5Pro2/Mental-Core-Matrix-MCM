@@ -1,4 +1,12 @@
 # Abhandlung Block I - MCM und die Dynamik evolutionärer Prozesse
+## Einordnung
+
+- **Status:** Hypothetisches Strukturmodell
+- **Ebene:** Strukturelle Modellbildung innerhalb der MCM
+- **Funktion:** Abstrakte Bauanleitung für Zustände, Übergänge und Rückführung
+- **Geltungsbereich:** Die beschriebenen Aussagen sind interne Modellinterpretationen und keine empirisch bestätigten Erklärungen.
+- **Prüfung:** Eine konkrete Umsetzung kann separat in Simulationen oder Prototypen untersucht werden. Ein Ergebnis belegt nicht die MCM als allgemeine Theorie.
+
 
 
 Block I

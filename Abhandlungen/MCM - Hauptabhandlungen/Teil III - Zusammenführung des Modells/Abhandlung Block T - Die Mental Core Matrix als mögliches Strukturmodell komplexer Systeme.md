@@ -1,4 +1,12 @@
 # Abhandlung Block T - Die Mental Core Matrix als mögliches Strukturmodell komplexer Systeme
+## Einordnung
+
+- **Status:** Hypothetische theoretische Erweiterung
+- **Ebene:** Abstrakte Modell- bzw. Architekturperspektive
+- **Funktion:** Bauanleitung für die Übertragung der MCM auf komplexe oder technische Systeme
+- **Geltungsbereich:** Aussagen über Physik, Bewusstsein oder KI sind Modellinterpretationen und keine gesicherten Tatsachen.
+- **Prüfung:** Eine konkrete Umsetzung kann separat in Simulationen oder Prototypen untersucht werden. Ein Ergebnis belegt nicht die MCM als allgemeine Theorie.
+
 
 
 Block J
