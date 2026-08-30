@@ -1,4 +1,11 @@
 # MCM-Pure-Emergence
+## Dokumentstatus
+
+- **Status:** Experimentelle Umsetzung oder Ergebnisdokumentation
+- **Funktion:** Konkrete Übersetzung einzelner MCM-Ideen in Code, Simulation oder Prototyp
+- **Geltungsbereich:** Die beschriebenen Beobachtungen gelten für die jeweilige Implementierung und sind kein Beleg für die MCM als allgemeine Theorie.
+- **Interpretation:** Begriffe wie Feld, Emergenz, Gedächtnis oder Kognition bezeichnen hier Modellfunktionen. Sie behaupten keine biologischen oder bewussten Eigenschaften.
+
 
 
 „Pure-Emergence-Simulation (MCM – Nature-Pure-Modus)“
@@ -97,7 +104,7 @@ kannst sie ändern, um Robustheit gegen Messartefakte zu prüfen.
 Zufallszahlen → unterschiedliche Ergebnisse. Deshalb brauchen wir viele Läufe, um
 verlässliche Wahrscheinlichkeiten zu schätzen.
 
-Warum das ein „Beweis“ reiner Emergenz ist (im empirischen Sinn)
+Warum das als modellinterner Hinweis auf Emergenz gelesen werden kann
 • Das Verhalten (Bildung persistenter Cluster) erscheint ohne jegliche ordnende Regel —
 allein durch lokale Wechselwirkungen + Rauschen + Dissipation.
 • Die Entstehung der Strukturen wird erst beobachtet, nicht erzeugt. Damit ist das

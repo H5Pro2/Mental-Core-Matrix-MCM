@@ -1,4 +1,11 @@
 # Simulationen der MCM – Mental Core Matrix
+## Dokumentstatus
+
+- **Status:** Experimentelle Umsetzung oder Ergebnisdokumentation
+- **Funktion:** Konkrete Übersetzung einzelner MCM-Ideen in Code, Simulation oder Prototyp
+- **Geltungsbereich:** Die beschriebenen Beobachtungen gelten für die jeweilige Implementierung und sind kein Beleg für die MCM als allgemeine Theorie.
+- **Interpretation:** Begriffe wie Feld, Emergenz, Gedächtnis oder Kognition bezeichnen hier Modellfunktionen. Sie behaupten keine biologischen oder bewussten Eigenschaften.
+
 
 
 Simulationen der MCM – Mental Core Matrix:

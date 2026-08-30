@@ -1,4 +1,11 @@
 # Die Welt als Feld MCM und das kollektive Gleichgewicht
+## Dokumentstatus
+
+- **Status:** Hypothetische konzeptionelle Erweiterung
+- **Funktion:** Abstrakte Bauanleitung und Denkmodell für mögliche Strukturzusammenhänge
+- **Geltungsbereich:** Die Aussagen sind interne Modellinterpretationen und keine empirisch bestätigten Erklärungen, Diagnosen oder Tatsachenbehauptungen.
+- **Prüfung:** Eine konkrete Umsetzung kann separat untersucht werden. Ihre Ergebnisse gelten nur für diese Umsetzung.
+
 
 
 Abhandlung: Die Welt als Feld: MCM und das kollektive

@@ -1,4 +1,11 @@
 # MCM-Infinity Abhandlung v1-4
+## Dokumentstatus
+
+- **Status:** Experimentelle Umsetzung oder Ergebnisdokumentation
+- **Funktion:** Konkrete Übersetzung einzelner MCM-Ideen in Code, Simulation oder Prototyp
+- **Geltungsbereich:** Die beschriebenen Beobachtungen gelten für die jeweilige Implementierung und sind kein Beleg für die MCM als allgemeine Theorie.
+- **Interpretation:** Begriffe wie Feld, Emergenz, Gedächtnis oder Kognition bezeichnen hier Modellfunktionen. Sie behaupten keine biologischen oder bewussten Eigenschaften.
+
 
 
 MCM-Infinity v1 bis v4.
@@ -161,7 +168,7 @@ Dies ist ein Beispiel für:
 • akustische Strukturgenese
 • Grundlagen eines digitalen Energieuniversums
 MCM-Infinity ist kein psychologisches Modell mehr –
-es ist eine elementare energetische Feldtheorie im Kleinen,
+es ist eine einfache modellinterne Feldbeschreibung im Kleinen,
 computational und hörbar gemacht.
 
 ---

@@ -1,4 +1,11 @@
 # C - MCM Relation
+## Dokumentstatus
+
+- **Status:** Hypothetische Modellgrundlage
+- **Funktion:** Definition oder Formalisierung von Begriffen und Beziehungen innerhalb der MCM
+- **Geltungsbereich:** Der Text beschreibt einen Modellrahmen und keine gesicherte Erklärung der Wirklichkeit.
+- **Prüfung:** Formale oder technische Tests beziehen sich auf die jeweilige Umsetzung, nicht automatisch auf die MCM insgesamt.
+
 
 
 Dokument C

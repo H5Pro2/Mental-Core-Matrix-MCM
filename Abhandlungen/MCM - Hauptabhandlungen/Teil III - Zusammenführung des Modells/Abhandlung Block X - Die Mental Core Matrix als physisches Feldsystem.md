@@ -155,8 +155,8 @@ Die heutige Forschung liefert dafür noch keine fertige MCM-Maschine, wohl aber
 mehrere reale Bausteine: leitfähige Hydrogels, Ionogele, gelbasierte künstliche
 Synapsen, all-gel-Transistoren und dynamische Materialsysteme, deren physische
 Nichtlinearität bereits rechnerisch genutzt wird.
-Damit erscheint die MCM als physisches Feldsystem nicht mehr als reine Spekulation,
-sondern als technisch anschlussfähige Hypothese. Die Matrix wäre in dieser Perspektive
+Damit erscheint die MCM als physisches Feldsystem innerhalb dieser Überlegung als eine
+technisch anschlussfähige Möglichkeit. Die Matrix wäre in dieser Perspektive
 nicht nur ein Modell zur Beschreibung komplexer Zustände, sondern ein möglicher
 Bauplan für ein reales materielles System, das Zustände bildet, koppelt, verdichtet und
 wieder zurückführt.

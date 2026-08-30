@@ -1,4 +1,11 @@
 # MCM_3d_256_selfscaled_Analyse der Ergebnisse
+## Dokumentstatus
+
+- **Status:** Experimentelle Umsetzung oder Ergebnisdokumentation
+- **Funktion:** Konkrete Übersetzung einzelner MCM-Ideen in Code, Simulation oder Prototyp
+- **Geltungsbereich:** Die beschriebenen Beobachtungen gelten für die jeweilige Implementierung und sind kein Beleg für die MCM als allgemeine Theorie.
+- **Interpretation:** Begriffe wie Feld, Emergenz, Gedächtnis oder Kognition bezeichnen hier Modellfunktionen. Sie behaupten keine biologischen oder bewussten Eigenschaften.
+
 
 
 Analyse der Ergebnisse im Kontext des MCM-Modells
@@ -60,7 +67,8 @@ Zeitentwicklung direkt von der energetischen Konfiguration des Systems ab.
 Es existiert keine absolute Zeit.
 Der Zeittakt ist nicht vorgegeben, sondern entsteht aus dem Zustand des Modells. Zeit ist ein
 abgeleiteter Parameter, kein externer Rahmen.
-Zeit wird vom System selbst erzeugt.
+Im Modell wird der Zeittakt aus dem Systemzustand abgeleitet; dies ist eine technische
+Eigenschaft der Simulation und keine Aussage darüber, dass ein reales System Zeit erzeugt.
 Der variable Zeitschritt ist eine direkte Reaktion auf interne Energiedifferenzen. Zeit ist damit
 eine emergente Eigenschaft des Feldes.
 Konzeptionelle Nähe zur Zeitdilatation.

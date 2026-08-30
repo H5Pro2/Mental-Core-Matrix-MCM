@@ -1,4 +1,11 @@
 # Hypothetische Entwicklungsanalyse einer MCM-basierten KI
+## Dokumentstatus
+
+- **Status:** Experimentelle Umsetzung oder Ergebnisdokumentation
+- **Funktion:** Konkrete Übersetzung einzelner MCM-Ideen in Code, Simulation oder Prototyp
+- **Geltungsbereich:** Die beschriebenen Beobachtungen gelten für die jeweilige Implementierung und sind kein Beleg für die MCM als allgemeine Theorie.
+- **Interpretation:** Begriffe wie Feld, Emergenz, Gedächtnis oder Kognition bezeichnen hier Modellfunktionen. Sie behaupten keine biologischen oder bewussten Eigenschaften.
+
 
 
 Hypothetische Entwicklungsanalyse einer MCM-basierten KI
@@ -25,7 +32,8 @@ Dadurch entstehen:
 • dominante Zustände
 • stabile Muster
 • temporäre Zustandsregionen.
-Das System erzeugt damit eine proto-kognitive Struktur.
+Das System erzeugt damit eine modellinterne Zustandsstruktur, die als proto-kognitiv
+interpretierbar ist. Daraus folgt kein Nachweis von Kognition oder Bewusstsein.
 
 4. Gedächtnis
 Cluster werden gespeichert als:

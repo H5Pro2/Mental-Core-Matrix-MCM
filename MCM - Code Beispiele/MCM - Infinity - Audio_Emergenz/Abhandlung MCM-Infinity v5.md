@@ -1,4 +1,11 @@
 # Abhandlung MCM-Infinity v5
+## Dokumentstatus
+
+- **Status:** Experimentelle Umsetzung oder Ergebnisdokumentation
+- **Funktion:** Konkrete Übersetzung einzelner MCM-Ideen in Code, Simulation oder Prototyp
+- **Geltungsbereich:** Die beschriebenen Beobachtungen gelten für die jeweilige Implementierung und sind kein Beleg für die MCM als allgemeine Theorie.
+- **Interpretation:** Begriffe wie Feld, Emergenz, Gedächtnis oder Kognition bezeichnen hier Modellfunktionen. Sie behaupten keine biologischen oder bewussten Eigenschaften.
+
 
 
 Abhandlung: Temporale und energetische
@@ -117,8 +124,9 @@ interpretieren.
 Zeit entsteht aus dem Energiefluss, nicht aus externen Takten.
 4. Feld-Stabilität trotz Freiheit
 Trotz fehlender Begrenzungen bleibt der Attraktor stabil und geordnet.
-Damit zeigt v5, wie ein reines energetisches Feld Muster erzeugt, die später als psychologische
-Archetypen interpretierbar wären.
+Damit illustriert v5 innerhalb der Simulation, wie ein modelliertes Feld Muster erzeugen kann,
+die später als psychologische Archetypen interpretierbar wären. Das ist keine Aussage über
+reale psychologische Prozesse.
 
 8. Schlussfolgerung
 MCM-Infinity v5 demonstriert eindrucksvoll:
